@@ -1,6 +1,6 @@
 Protocol design
 ===============
-
+i
 Goals
 -----
 
